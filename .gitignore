@@ -1,0 +1,6 @@
+users.csv
+wallets.csv
+transactions.csv
+*.exe
+merklerex
+.vscode/
